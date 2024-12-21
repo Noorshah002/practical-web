@@ -1,0 +1,32 @@
+body {
+    background-color: #f7f7f7;
+    font-family: 'Arial', sans-serif;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.invalid-feedback {
+    display: none;
+    font-size: 12px;
+    color: red;
+}
+
+.is-invalid {
+    border-color: red;
+}
+
+.is-valid {
+    border-color: green;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px;
+}
+
+h2 {
+    margin-bottom: 30px;
+    color: #4CAF50;
+}
